@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b35c7c4c-6fd3-461a-840c-fc1c7e615b27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZ4MZbAytEwbUAvxsiFJ7slUYZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b35c7c4c-6fd3-461a-840c-fc1c7e615b27" name="Default Changelist" comment="" />
+      <created>1579343735023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579343735023</updated>
+      <workItem from="1579343739903" duration="1916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579352294390">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="310" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1345@0.23.2560.1345" timestamp="1579352294390" />
+    <state x="1082" y="330" key="CommitChangelistDialog2" timestamp="1579531179317">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="1082" y="330" key="CommitChangelistDialog2/0.23.2560.1345@0.23.2560.1345" timestamp="1579531179317" />
+    <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1579352284092">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state width="219" height="457" key="HiddenNamespacesPopup/0.23.2560.1345@0.23.2560.1345" timestamp="1579352284092" />
+    <state x="219" y="320" key="SettingsEditor" timestamp="1579529701434">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="219" y="320" key="SettingsEditor/0.23.2560.1345@0.23.2560.1345" timestamp="1579529701434" />
+    <state x="375" y="402" width="670" height="676" key="search.everywhere.popup" timestamp="1579529723818">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="375" y="402" width="670" height="676" key="search.everywhere.popup/0.23.2560.1345@0.23.2560.1345" timestamp="1579529723818" />
+  </component>
+</project>
