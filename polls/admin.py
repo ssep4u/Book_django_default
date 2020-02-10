@@ -2,7 +2,7 @@ from django.contrib import admin
 from .models import Question, Choice
 
 
-class ChoiceInlne(admin.StackedInline):
+class ChoiceInlne(admin.TabularInline):
     model = Choice
     extra = 3
 
