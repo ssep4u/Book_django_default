@@ -18,6 +18,7 @@ from django.urls import path
 from django.urls import include
 
 urlpatterns = [
+    path('bookmark/', include('bookmark.urls')),
     path('polls/', include('polls.urls')),
     path('admin/', admin.site.urls),
 ]
